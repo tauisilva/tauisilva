@@ -2,7 +2,7 @@ Olá! Eu sou o Taui Silva👋
 
 
 - 🔭 Estagiando como dev Java
-- - 🌱 Estudando Java
+- 🌱 Estudando Java
 - 🌱 Estudando HTML e CSS
 - 🌱 Estudando Javascript
 - 🌱 Estudando C++
