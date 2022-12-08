@@ -1,11 +1,11 @@
 Olá! Eu sou o Taui Silva👋
 
 
-- 🔭 Hoje trabalho com Manutenção em Hardwares(Pc, Notebook)
+- 🔭 Estagiando como dev Java
+- - 🌱 Estudando Java
 - 🌱 Estudando HTML e CSS
 - 🌱 Estudando Javascript
 - 🌱 Estudando C++
-- 🌱 Estudando Java
 
 <div align="center">
   <a href="https://github.com/tauisilva">
