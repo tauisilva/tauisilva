@@ -10,7 +10,7 @@ Olá! Eu sou o Taui Silva👋
 <div align="center">
   <a href="https://github.com/tauisilva">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tauisilva&theme=transparent&show_icons=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauisilva&layout=compact&theme=transparent"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauisilva&layout=compact&theme=transparent"/>  
 </div>
   
  ###
