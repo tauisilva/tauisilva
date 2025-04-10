@@ -11,7 +11,8 @@ Sou um desenvolvedor Full-Stack com formação em Análise e Desenvolvimento de 
 
 ## 🎓 Educação
 
-● **Análise e Desenvolvimento de Sistemas** - [UDF](https://www.udf.edu.br/)  ● **Ciências da Computação (em andamento)** - [UDF](https://www.udf.edu.br/)
+- **Análise e Desenvolvimento de Sistemas** - [UDF](https://www.udf.edu.br/) 
+- **Ciências da Computação (em andamento)** - [UDF](https://www.udf.edu.br/)
 
 <p align="center">
  <a href="https://github.com/tauisilva"><img alt="Taui Silva's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tauisilva&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="150px" width="38%"/></a>
@@ -20,8 +21,6 @@ Sou um desenvolvedor Full-Stack com formação em Análise e Desenvolvimento de 
   </a>
 
 </p>
-
-![Taui Silva's Graph](https://github-readme-activity-graph.vercel.app/graph?username=tauisilva&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)  
 
 ## 📫 Contato
 Sinta-se à vontade para entrar em contato comigo
