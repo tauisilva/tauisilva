@@ -107,11 +107,11 @@ Focado em qualidade de código, possuo experiência prática em testes unitário
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/tauisilva">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauisilva&theme=radical" alt="Contribuições do GitHub de Taui" width="90%" />
   </a>
-</p>
+</p> -->
 
 ---
 
