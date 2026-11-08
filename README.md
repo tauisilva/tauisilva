@@ -1,7 +1,7 @@
-# Olá! Eu sou o Taui Silva 👋
+# Hi! I'm Taui Silva 👋
 
 <p align="left">
-    <a href="mailto:tauisilva@gmail.com" target="_blank">
+  <a href="mailto:tauisilva@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/taui-silva/" target="_blank">
@@ -9,15 +9,15 @@
   </a>
 </p>
 
-Sou um **Desenvolvedor de Software Full-Stack** com sólida experiência no desenvolvimento de backend para sistemas corporativos de alta complexidade. Sou especialista nos ecossistemas **Java (Spring Boot, Quarkus)** e **C# (.NET)**, com forte atuação no desenho de arquiteturas de microsserviços, mensageria distribuída e integração de bancos de dados relacionais de alto volume.
+I'm a **Full-Stack Software Developer** with solid experience in backend development for complex enterprise systems. I specialize in the **Java (Spring Boot, Quarkus)** and **C# (.NET)** ecosystems, with extensive experience in microservices architecture, distributed messaging, and integration with high-volume relational databases.
 
-Focado em qualidade de código, possuo experiência prática em testes unitários, fluxos de CI/CD e otimização de performance de sistemas críticos em ambientes ágeis.
+Focused on code quality, I have hands-on experience with unit testing, CI/CD pipelines, and performance optimization for critical systems in agile environments.
 
 ---
 
-### 💻 Habilidades Técnicas
+### 💻 Technical Skills
 
-#### 🗣️ Linguagens de Programação
+#### 🗣️ Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -36,14 +36,14 @@ Focado em qualidade de código, possuo experiência prática em testes unitário
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-#### 🗄️ Bancos de Dados
+#### 🗄️ Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🛠️ DevOps, Cloud & Mensageria
+#### 🛠️ DevOps, Cloud & Messaging
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -54,68 +54,68 @@ Focado em qualidade de código, possuo experiência prática em testes unitário
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-#### 🧪 Qualidade & Testes
+#### 🧪 Quality & Testing
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-333333?style=for-the-badge)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
-### 💼 Experiência Profissional
+### 💼 Professional Experience
 
 <details>
-  <summary><b>Analista de Desenvolvimento de Sistemas | Websis Tecnologia e Sistemas (Dez/2023 - Presente)</b></summary>
+  <summary><b>Systems Development Analyst | Websis Tecnologia e Sistemas (Dec 2023 - Present)</b></summary>
   <br />
   <ul>
-    <li>Concepção, desenvolvimento e otimização de APIs REST e microsserviços backend utilizando <b>Java (Spring Boot e Quarkus)</b> e <b>C# (.NET)</b>, garantindo resiliência e alta performance em sistemas corporativos críticos.</li>
-    <li>Implementação de fluxos de integração contínua (<b>CI/CD com Jenkins</b>) e versionamento de código avançado em Git, garantindo entregas limpas em produção.</li>
-    <li>Modelagem de dados, otimização de queries complexas e integração com bancos de dados relacionais (<b>PostgreSQL</b>, <b>MySQL</b> e <b>Oracle Database</b>) e NoSQL (<b>MongoDB</b>).</li>
-    <li>Escrita e execução de testes unitários para validar fluxos de negócios complexos no backend, elevando a cobertura de testes e prevenindo regressões de código.</li>
-    <li>Participação ativa em equipes ágeis (Scrum/Kanban), colaborando na arquitetura de software, refinamento técnico e alinhamento com áreas de negócios.</li>
-    <li>Desenvolvimento complementar no front-end do projeto <b>SIMDEC</b> utilizando <b>Vue 3 (Composition API)</b>, <b>TypeScript</b> e <b>Vite</b>, organizando componentes modulares com base em <i>Atomic Design</i>.</li>
+    <li>Design, develop, and optimize REST APIs and backend microservices using <b>Java (Spring Boot and Quarkus)</b> and <b>C# (.NET)</b>, ensuring resilience and high performance in critical enterprise systems.</li>
+    <li>Implement continuous integration and delivery pipelines (<b>CI/CD with Jenkins</b>) and advanced Git version control workflows, ensuring reliable production releases.</li>
+    <li>Design data models, optimize complex queries, and integrate relational databases (<b>PostgreSQL</b>, <b>MySQL</b>, and <b>Oracle Database</b>) and NoSQL databases (<b>MongoDB</b>).</li>
+    <li>Write and execute unit tests to validate complex backend business logic, improve test coverage, and prevent code regressions.</li>
+    <li>Actively participate in agile teams (Scrum/Kanban), collaborating on software architecture, technical refinement, and alignment with business stakeholders.</li>
+    <li>Contribute to front-end development for the <b>SIMDEC</b> project using <b>Vue 3 (Composition API)</b>, <b>TypeScript</b>, and <b>Vite</b>, organizing modular components based on <i>Atomic Design</i>.</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>Auxiliar em Desenvolvimento de Sistemas | Websis Tecnologia e Sistemas (Dez/2022 - Dez/2023)</b></summary>
+  <summary><b>Systems Development Assistant | Websis Tecnologia e Sistemas (Dec 2022 - Dec 2023)</b></summary>
   <br />
   <ul>
-    <li>Apoio no desenvolvimento e suporte de backend em sistemas web corporativos utilizando <b>Java (Spring Boot)</b>.</li>
-    <li>Desenvolvimento complementar de interfaces administrativas utilizando <b>Angular</b> e <b>React</b>.</li>
-    <li>Resolução de bugs de sistema e suporte corretivo direto em produção, atuando ativamente na melhoria contínua das plataformas.</li>
-    <li>Colaboração próxima com engenheiros seniores na elaboração de especificações técnicas de APIs e documentação utilizando Swagger/OpenAPI.</li>
+    <li>Assisted with backend development and support for enterprise web applications using <b>Java (Spring Boot)</b>.</li>
+    <li>Contributed to the development of administrative interfaces using <b>Angular</b> and <b>React</b>.</li>
+    <li>Resolved system bugs and provided corrective support for production environments, actively contributing to continuous platform improvement.</li>
+    <li>Worked closely with senior engineers to define API technical specifications and create documentation using Swagger/OpenAPI.</li>
   </ul>
 </details>
 
 ---
 
-### 🎓 Educação
+### 🎓 Education
 
-- 🎓 **Bacharelado em Ciência da Computação** — *Centro Universitário do Distrito Federal (UDF)* | Concluído em Dezembro de 2024
-- 💻 **Graduação Tecnológica em Análise e Desenvolvimento de Sistemas** — *Centro Universitário do Distrito Federal (UDF)* | Concluído em 2019
+- 🎓 **Bachelor's Degree in Computer Science** — *UDF University Center* | Completed in December 2024
+- 💻 **Associate Degree in Systems Analysis and Development** — *UDF University Center* | Completed in 2019
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/tauisilva">
-    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tauisilva&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Estatísticas do GitHub de Taui" height="195px" />
+    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tauisilva&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Taui's GitHub Statistics" height="195px" />
   </a>
   <a href="https://github.com/tauisilva">
-    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tauisilva&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Linguagens mais usadas" height="195px" />
+    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tauisilva&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Most Used Languages" height="195px" />
   </a>
 </p>
 
 <!-- <p align="center">
   <a href="https://github.com/tauisilva">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauisilva&theme=radical" alt="Contribuições do GitHub de Taui" width="90%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauisilva&theme=radical" alt="Taui's GitHub Contributions" width="90%" />
   </a>
 </p> -->
 
 ---
 
-### 👾 Contribuições (Snake Game)
+### 👾 Contributions (Snake Game)
 
 <p align="center">
   <picture>
@@ -127,9 +127,9 @@ Focado em qualidade de código, possuo experiência prática em testes unitário
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
-Sinta-se à vontade para entrar em contato comigo!
+Feel free to reach out!
 
 <p align="left">
   <a href="mailto:tauisilva@gmail.com" target="_blank">
